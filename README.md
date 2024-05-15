@@ -1,5 +1,6 @@
 # PCB-Design--Automatic-night-lamp
-
+## Name: Sri Vignesh G
+## Reg No: 212223040204
 # Aim
 To design a PCB circuit for automatic night lamp using eagle sofware.
 
@@ -40,11 +41,13 @@ During the daytime when there is a light, the LDR has very low resistance and al
 
 # Output
 
-### Schematic diagram
+## Schematic diagram
+![Screenshot 2024-05-15 112336](https://github.com/SriVignesh-G/PCB-Design--Automatic-night-lamp/assets/147576510/32c04adc-1120-4f15-892c-35dee90f6d9f)
 
 
 
-### Layout diagram
+## Layout diagram
+![Screenshot 2024-05-15 112346](https://github.com/SriVignesh-G/PCB-Design--Automatic-night-lamp/assets/147576510/fac3a482-e5ff-496c-8a2f-35588a5a7794)
 
 
 
